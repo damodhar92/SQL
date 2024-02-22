@@ -22,5 +22,6 @@ The car_dekho dataset consists of 13 columns and 7927 rows
 * Seats: #number of seats in the car
 
 ### Key steps inside the project 
+* Exploratory Analysis
 
 
