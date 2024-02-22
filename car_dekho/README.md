@@ -5,6 +5,7 @@
 The objective of this project is to conduct a comprehensive analysis of the CarDekho dataset to extract meaningful insights using SQL across different dimensions. This analysis aims to inform strategic decision-making processes, optimize services, and enhance customer satisfaction.
 
 ### About the Dataset
+The car_dekho dataset consists of 13 columns and 7927 rows.
 
 * Name: #name or model of the car.
 * Year: #Tmanufacturing year 
