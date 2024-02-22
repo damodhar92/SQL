@@ -6,7 +6,7 @@ The objective of this project is to conduct a comprehensive analysis of the CarD
 
 ### About the Dataset
 
-Name: #name or model of the car.
+ Name: #name or model of the car.
 Year: #Tmanufacturing year 
 Selling_Price: #selling price of the car
 Km_Driven: #number of kilometers the car has been driven.
