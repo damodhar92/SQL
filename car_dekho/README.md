@@ -23,5 +23,10 @@ The car_dekho dataset consists of 13 columns and 7927 rows
 
 ### Key steps inside the project 
 * Exploratory Analysis
-
+* Price Analysis
+* Marketing Analysis
+* Customer Preference Analysis
+* comparative analysis
+* Trend Forecasting
+### Insights
 
