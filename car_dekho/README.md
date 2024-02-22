@@ -31,6 +31,24 @@ The car_dekho dataset consists of 13 columns and 7927 rows
 
 ### Insights
 - Exploratory Analysis
-  * hai
+  * The highest number of cars, 1010 in total, were manufactured in the year 2017
+  * The average selling price tends to be higher for cars driven less than 50,000 kilometers. As the number of kilometers driven increases, the average selling price of 
+     the car decreases
+  * The most common fuel type among cars is diesel
+  * The average mileage of cars is 19.4 km
+  * There are 6274 cars with 5 seats
+  * individual car are 6578
+    
+
+
+
+
+
+
+
+
+
+
+
 
 
