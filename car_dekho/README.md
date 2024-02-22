@@ -28,5 +28,9 @@ The car_dekho dataset consists of 13 columns and 7927 rows
 * Customer Preference Analysis
 * comparative analysis
 * Trend Forecasting
+
 ### Insights
+- Exploratory Analysis
+  *hai
+
 
