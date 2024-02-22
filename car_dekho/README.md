@@ -21,4 +21,6 @@ The car_dekho dataset consists of 13 columns and 7927 rows
 * Torque: #torque produced by the car's engine
 * Seats: #number of seats in the car
 
+### Key steps inside the project 
+
 
