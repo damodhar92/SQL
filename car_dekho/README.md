@@ -31,6 +31,6 @@ The car_dekho dataset consists of 13 columns and 7927 rows
 
 ### Insights
 - Exploratory Analysis
-  *hai
+  * hai
 
 
