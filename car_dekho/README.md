@@ -39,6 +39,28 @@ The car_dekho dataset consists of 13 columns and 7927 rows
   * There are 6274 cars with 5 seats
   * individual car are 6578
     
+- Price Analysis
+   * average selling price varies each year
+   * selling price depends up on the fuel type of the cars, diesel cars having highest selling price around 8 lakhs
+   * manual transmission cars have highest average selling price compare with automatic
+   * test drive cars having highest average selling price
+     
+- Marketing Analysis
+   * The highest number of cars are manufactured in the year 2017.
+   * Price varies year to year
+   
+- Customer Preference Analysis
+   * The average selling price sold by dealers are highest compared with individual
+   * The 7 seated cars have a highest average selling price
+   * The first owner cars having highest numbers 5232
+
+- Comparative Analysis:
+  * Electric fuel-type cars have the highest average selling price.
+  * 793 CC engines give the highest mileage of 28.0 km.
+
+
+
+    
 
 
 
