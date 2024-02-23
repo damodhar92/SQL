@@ -63,6 +63,14 @@ The car_dekho dataset consists of 13 columns and 7927 rows
   * The average selling price varies every year based on car models
 
 
+### Recommendations 
+* Car dekho continue offering a wide range of vehicles wiht petrol and diesel type cars
+* Cars sold by dealers tend to fetch higher average selling price, car dekho should focus on strengthening partnerships with delerships
+* 7 seater cars having the highest average selling price, car dekho should actively promotes and show case vehicles with 7 seating capacities cars
+* First owner cars are highest price in the market, cardekho should highlighting the advantages of purchasing a first owner vehicles
+* While the average selling price for electric fuel-type cars is high, CarDekho should consider expanding its focus on this segment rather than solely concentrating on it
+  
+  
 
 
     
