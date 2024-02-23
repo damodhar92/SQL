@@ -55,8 +55,13 @@ The car_dekho dataset consists of 13 columns and 7927 rows
    * The first owner cars having highest numbers 5232
 
 - Comparative Analysis:
-  * Electric fuel-type cars have the highest average selling price.
-  * 793 CC engines give the highest mileage of 28.0 km.
+  * Electric fuel-type cars have the highest average selling price
+  * 793 CC engines give the highest mileage of 28.0 km
+    
+- Trend Forecasting:
+  * Most customers prefer diesel and petrol cars every year
+  * The average selling price varies every year based on car models
+
 
 
 
